@@ -276,3 +276,78 @@ body {
     height: 100px;
   }
 }
+/* =========================================================
+   STICKY HEADER
+   ========================================================= */
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* =========================================================
+   HAMBURGER BUTTON
+   ========================================================= */
+
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 26px;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* =========================================================
+   NAV MENU (DESKTOP DEFAULT)
+   ========================================================= */
+
+.nav {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+
+.nav a:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+/* =========================================================
+   MOBILE RESPONSIVE MENU
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .hamburger {
+    display: block;
+  }
+
+  .nav {
+    display: none;
+    flex-direction: column;
+    background: #25D366;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  .nav.show {
+    display: flex;
+  }
+
+  .nav a {
+    padding: 10px;
+    text-align: center;
+  }
+}
