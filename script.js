@@ -284,3 +284,15 @@ function showToast(msg) {
     toast.remove();
   }, 2000);
 }
+// =========================================================
+// MOBILE NAVIGATION TOGGLE
+// =========================================================
+
+const hamburgerBtn = document.getElementById("hamburgerBtn");
+const navMenu = document.getElementById("navMenu");
+
+if (hamburgerBtn && navMenu) {
+  hamburgerBtn.addEventListener("click", () => {
+    navMenu.classList.toggle("show");
+  });
+}
