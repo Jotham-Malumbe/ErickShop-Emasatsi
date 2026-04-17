@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Fresh Milk 500ml",
+    "price": 40,
+    "image": "https://res.cloudinary.com/demo/image/upload/milk.jpg"
+  },
+  {
+    "name": "Fresh Milk 1L",
+    "price": 80,
+    "image": "https://res.cloudinary.com/demo/image/upload/milk1l.jpg"
+  },
+  {
+    "name": "White Sugar 1kg",
+    "price": 150,
+    "image": "https://res.cloudinary.com/demo/image/upload/sugar.jpg"
+  },
+  {
+    "name": "Wheat Flour 2kg",
+    "price": 180,
+    "image": "https://res.cloudinary.com/demo/image/upload/flour.jpg"
+  },
+  {
+    "name": "Cooking Oil 1L",
+    "price": 220,
+    "image": "https://res.cloudinary.com/demo/image/upload/oil.jpg"
+  },
+  {
+    "name": "Bar Soap",
+    "price": 50,
+    "image": "https://res.cloudinary.com/demo/image/upload/soap.jpg"
+  },
+  {
+    "name": "Toothpaste Medium",
+    "price": 120,
+    "image": "https://res.cloudinary.com/demo/image/upload/toothpaste.jpg"
+  },
+  {
+    "name": "Bread Large",
+    "price": 60,
+    "image": "https://res.cloudinary.com/demo/image/upload/bread.jpg"
+  },
+  {
+    "name": "Rice 1kg",
+    "price": 160,
+    "image": "https://res.cloudinary.com/demo/image/upload/rice.jpg"
+  },
+  {
+    "name": "Black Tea Leaves 100g",
+    "price": 70,
+    "image": "https://res.cloudinary.com/demo/image/upload/tea.jpg"
+  },
+  {
+    "name": "Margarine 500g",
+    "price": 140,
+    "image": "https://res.cloudinary.com/demo/image/upload/margarine.jpg"
+  },
+  {
+    "name": "Salt 1kg",
+    "price": 40,
+    "image": "https://res.cloudinary.com/demo/image/upload/salt.jpg"
+  },
+  {
+    "name": "Spaghetti 500g",
+    "price": 90,
+    "image": "https://res.cloudinary.com/demo/image/upload/spaghetti.jpg"
+  },
+  {
+    "name": "Dishwashing Soap",
+    "price": 70,
+    "image": "https://res.cloudinary.com/demo/image/upload/dishsoap.jpg"
+  },
+  {
+    "name": "Cooking Gas Small (Refill)",
+    "price": 300,
+    "image": "https://res.cloudinary.com/demo/image/upload/gas.jpg"
+  }
+]

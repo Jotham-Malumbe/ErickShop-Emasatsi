@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Erick's Shop-Emasatsi</title>
+
+  <meta name="description" content="Order daily essentials from Erick's Shop-Emasatsi via WhatsApp. Fast, simple and reliable shopping at Emasatsi Market." />
+  <meta name="theme-color" content="#25D366" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="container">
+      <h1 id="shopName">Erick's Shop-Emasatsi</h1>
+      <p class="tagline">Daily essentials made simple. Order via WhatsApp.</p>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h2>Fresh groceries & household items</h2>
+      <p>Shop from Emasatsi Market and get your order quickly via WhatsApp.</p>
+
+      <!-- SEARCH BAR -->
+      <div class="search-bar">
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Search for milk, soap, sugar..." 
+        />
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <main class="container main-layout">
+
+    <!-- PRODUCTS SECTION -->
+    <section class="products-section">
+      <h2>Products</h2>
+
+      <!-- PRODUCTS GRID (JS WILL POPULATE THIS) -->
+      <div id="productsGrid" class="products-grid"></div>
+
+      <!-- EMPTY STATE -->
+      <div id="emptyProducts" class="empty-state hidden">
+        <p>No products found.</p>
+      </div>
+    </section>
+
+    <!-- CART SECTION -->
+    <aside class="cart-section">
+
+      <h2>Cart</h2>
+
+      <!-- CART ITEMS -->
+      <div id="cartItems" class="cart-items"></div>
+
+      <!-- EMPTY CART STATE -->
+      <div id="emptyCart" class="empty-state">
+        <p>Your cart is empty</p>
+        <small>Add products to start your order</small>
+      </div>
+
+      <!-- CART SUMMARY -->
+      <div class="cart-summary">
+
+        <p>Items: <span id="cartCount">0</span></p>
+        <p>Subtotal: <span id="cartSubtotal">KSH 0</span></p>
+
+        <!-- DELIVERY OPTIONS -->
+        <div class="delivery-section">
+          <label>Delivery Option</label>
+
+          <select id="deliveryOption">
+            <option value="pickup">Pickup (Free)</option>
+            <option value="delivery">Delivery</option>
+          </select>
+
+          <input 
+            type="number" 
+            id="deliveryFee" 
+            placeholder="Enter delivery fee" 
+            class="hidden"
+          />
+        </div>
+
+        <!-- TOTAL -->
+        <h3>Total: <span id="cartTotal">KSH 0</span></h3>
+
+        <!-- WHATSAPP BUTTON -->
+        <button id="whatsappBtn" class="whatsapp-btn">
+          Order on WhatsApp
+        </button>
+
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+
+      <p><strong>Erick's Shop-Emasatsi</strong></p>
+      <p>Location: Emasatsi Market</p>
+      <p>WhatsApp: 0115652612</p>
+
+      <hr />
+
+      <p class="brand-note">
+        Website by ChartCart Studio. Start your own online shop.
+      </p>
+
+    </div>
+  </footer>
+
+  <!-- SCRIPTS -->
+  <script src="config.js"></script>
+  <script src="products.json"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
