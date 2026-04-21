@@ -2,76 +2,76 @@
   {
     "name": "Fresh Milk 500ml",
     "price": 40,
-    "image": "https://res.cloudinary.com/demo/image/upload/milk.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776772595/000310-1-1_g4ssb6.jpg"
   },
   {
     "name": "Fresh Milk 1L",
     "price": 80,
-    "image": "https://res.cloudinary.com/demo/image/upload/milk1l.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776772754/organic-raw-milk-1-litre-carton-885-dv-p_xgpjao.jpg"
   },
   {
     "name": "White Sugar 1kg",
     "price": 150,
-    "image": "https://res.cloudinary.com/demo/image/upload/sugar.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776772858/B5E2FE51-4E6F-4C94-8817-36021FAE4062_z6vuv8.jpg"
   },
   {
     "name": "Wheat Flour 2kg",
     "price": 180,
-    "image": "https://res.cloudinary.com/demo/image/upload/flour.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776772908/s-l400_sl8tor.png"
   },
   {
     "name": "Cooking Oil 1L",
     "price": 220,
-    "image": "https://res.cloudinary.com/demo/image/upload/oil.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776772990/71-D6kliuQL_ouk4lk.jpg"
   },
   {
     "name": "Bar Soap",
     "price": 50,
-    "image": "https://res.cloudinary.com/demo/image/upload/soap.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773075/Grisi-Soap-Bio-Sulfur-for-Acne-Treatment-and-Face-Cleanser-Unisex-Helps-Reduce-Oil-Excess-4-4-oz_e8ee21a8-9940-449b-a78f-7085281f0c66.6572baa61f4aeb72afd2a66507c2f572_ijitok.jpg"
   },
   {
     "name": "Toothpaste Medium",
     "price": 120,
-    "image": "https://res.cloudinary.com/demo/image/upload/toothpaste.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773120/811bfri5BsL._AC_UF350_350_QL80__jmtb3a.jpg"
   },
   {
     "name": "Bread Large",
     "price": 60,
-    "image": "https://res.cloudinary.com/demo/image/upload/bread.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773188/b166782c235384fc58d0c728de214f33_crqnzp.jpg"
   },
   {
     "name": "Rice 1kg",
     "price": 160,
-    "image": "https://res.cloudinary.com/demo/image/upload/rice.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773257/basmatiriceunpackagaged_r2rdo6.jpg"
   },
   {
     "name": "Black Tea Leaves 100g",
     "price": 70,
-    "image": "https://res.cloudinary.com/demo/image/upload/tea.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773323/s-l1200_hygevn.jpg"
   },
   {
     "name": "Margarine 500g",
     "price": 140,
-    "image": "https://res.cloudinary.com/demo/image/upload/margarine.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773378/meadowlea-margarine-original-spread-500g_lgjjas.jpg"
   },
   {
     "name": "Salt 1kg",
     "price": 40,
-    "image": "https://res.cloudinary.com/demo/image/upload/salt.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773444/SeaSalt1_07b40ff6-9932-429f-bac6-58caca7b3753_qd6ip7.png"
   },
   {
     "name": "Spaghetti 500g",
     "price": 90,
-    "image": "https://res.cloudinary.com/demo/image/upload/spaghetti.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773505/HOUSEBRAND-SPAGHETTI-500g_d82cy4.jpg"
   },
   {
     "name": "Dishwashing Soap",
     "price": 70,
-    "image": "https://res.cloudinary.com/demo/image/upload/dishsoap.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773559/dishwashing-liquid-soap-with-lemon-in-a-bottle-vector-48964703_apnaat.jpg"
   },
   {
     "name": "Cooking Gas Small (Refill)",
     "price": 300,
-    "image": "https://res.cloudinary.com/demo/image/upload/gas.jpg"
+    "image": "https://res.cloudinary.com/dwaqbsthr/image/upload/v1776773627/71PvCK1EZWL_ytgjds.jpg"
   }
 ]
